@@ -1,0 +1,15 @@
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.csprojAssemblyReference.cache
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.AssemblyInfoInputs.cache
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.AssemblyInfo.cs
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.csproj.CoreCompileInputs.cache
+/Users/joyambrose/Projects/SelectionTask/bin/Debug/net5.0/SelectionTask.deps.json
+/Users/joyambrose/Projects/SelectionTask/bin/Debug/net5.0/SelectionTask.runtimeconfig.json
+/Users/joyambrose/Projects/SelectionTask/bin/Debug/net5.0/SelectionTask.runtimeconfig.dev.json
+/Users/joyambrose/Projects/SelectionTask/bin/Debug/net5.0/SelectionTask.dll
+/Users/joyambrose/Projects/SelectionTask/bin/Debug/net5.0/ref/SelectionTask.dll
+/Users/joyambrose/Projects/SelectionTask/bin/Debug/net5.0/SelectionTask.pdb
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.dll
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/ref/SelectionTask.dll
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.pdb
+/Users/joyambrose/Projects/SelectionTask/obj/Debug/net5.0/SelectionTask.genruntimeconfig.cache
